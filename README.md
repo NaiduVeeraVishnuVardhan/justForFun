@@ -1,2 +1,3 @@
 # justForFun
-Playing with js, css, htmland nodemon
+
+This is a "User registration and Login Module" developed using JavaScript, NodeJs, Mongodb.
